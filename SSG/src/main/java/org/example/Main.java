@@ -15,7 +15,17 @@ public class Main {
         Date now = new Date();
         String date = formatter.format(now);
 
-        System.out.println("== 게시판 프로그램 시작 ==");
+        System.out.println("==         메인 페이지        ==");
+        System.out.println("==                          ==");
+        System.out.println("==                          ==");
+        System.out.println("==                          ==");
+        System.out.println("==                          ==");
+        System.out.println("==                          ==");
+        System.out.println("==                          ==");
+        System.out.println("==                          ==");
+        System.out.println("==                          ==");
+        System.out.println("==============================");
+        
         while (true) {
             System.out.print("입력란>");
             String cmd = sc.nextLine();
